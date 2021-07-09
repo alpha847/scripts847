@@ -1,0 +1,2 @@
+'use strict';Object.defineProperty(Object.getPrototypeOf(navigator),'platform',{get:function(){return 'sb_baidu';}})
+(function(){var href=location.href;/http:/.test(href)?location.href='https'+href.slice(4):0;}());
